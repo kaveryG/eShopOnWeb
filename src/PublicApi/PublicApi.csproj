@@ -30,7 +30,7 @@
 
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" />
     <!-- La línea que debes agregar -->
-    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" />
   </ItemGroup>
 
   <ItemGroup>
